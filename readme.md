@@ -1,6 +1,6 @@
 Requirements:
 
-- [https://docs.devwithlando.io/](Lando)
+- [Lando](https://docs.devwithlando.io/)
 
 Instructions:
 
