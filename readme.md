@@ -1,3 +1,7 @@
+Requirements:
+
+- [https://docs.devwithlando.io/](Lando)
+
 Instructions:
 
 - Run:
