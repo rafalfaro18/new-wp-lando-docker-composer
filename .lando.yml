@@ -1,4 +1,4 @@
 name: my-lando-app
 recipe: wordpress
 config:
-  webroot: .
+  webroot: wp
